@@ -1,0 +1,7 @@
+name: InterfaceTest
+version: ${project.version}
+main: me.cameron.interfacetest.InterfaceTest
+authors: [Cameron]
+description: Testing new methods to create graphical user interfaces
+commands:
+  testmenu:
